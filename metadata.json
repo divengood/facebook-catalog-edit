@@ -1,0 +1,5 @@
+{
+  "name": "Facebook Catalog Manager",
+  "description": "A web application to manage Facebook product catalogs using an API token. It allows for bulk adding and deleting products, as well as creating, deleting, and editing product sets. Note: This is a UI prototype and uses a mock API service.",
+  "requestFramePermissions": []
+}
